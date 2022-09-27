@@ -10,3 +10,7 @@
 	background-color: green;
 
 }
+#conteneur{
+	display: flex;
+	flex-direction: column;
+}
