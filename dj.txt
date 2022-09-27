@@ -1,0 +1,18 @@
+Exo 1 : justify-end
+Exo 2 : justify-center
+Exo 3 : justify-around
+Exo 4 : justify-between
+Exo 5 : items-center
+Exo 6 : items-center ; justify-center
+Exo 7 : justify-around ; items-end
+Exo 8 : flex-row-reverse
+Exo 9 : flex-col
+Exo 10 : flex-col-reverse ; items-end ; justify-center
+Exo 11 : order-last
+Exo 12 : order-first
+Exo 13 : self-center
+Exo 14 : self-end ; order-last
+Exo 15 : flex-wrap
+Exo 16 : flex-wrap-reverse ; justify end
+Exo 17 :  content-between
+Exo 18 : flex-wrap-reverse ; justify-center ; content-center
